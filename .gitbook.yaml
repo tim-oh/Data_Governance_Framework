@@ -1,0 +1,14 @@
+# GitBook monorepo configuration
+#
+# This file documents the Git Sync setup. Each GitBook Space is configured
+# individually in the GitBook UI to sync with its respective folder.
+#
+# GitBook Space → folder mapping:
+#   Start & Implement  →  start-implement/
+#   Pillars            →  pillars/
+#   Toolkit            →  toolkit/
+#   Country Cases      →  cases/
+#   Print Edition      →  print/
+#
+# Each space folder contains README.md (landing page) and SUMMARY.md (TOC).
+# GitBook will read these automatically when Git Sync is configured.
