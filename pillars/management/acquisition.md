@@ -1,10 +1,6 @@
 # Acquisition
 
-The Acquisition building block covers the policies and processes for collecting and receiving data — including how data is gathered in the field, agreed with external providers, and brought into the system.
-
-## What good looks like
-
-> _Placeholder: from framework text — clear acquisition policies, standardised forms, formalised agreements with all data providers and collectors_
+Data collection plays an increasingly critical role in today's digitalised social protection systems; hence, its acquisition merits particular attention. Where it is conducted, primary data collection via person- or household-level data collection is a major logistics exercise that is key to data quality. Data acquisition from across the public sector is the other main form of acquisition and is at the heart of interoperability. Third party data generally play a less prominent role, but that may change as data and technology evolve and should be addressed where relevant.
 
 ## Implementation mechanisms
 
@@ -19,27 +15,19 @@ The Acquisition building block covers the policies and processes for collecting 
 
 ### Data acquisition policy
 
-> _Placeholder: what the policy covers and how to develop it_
+A data acquisition policy is a guideline document that provides directions and procedures for data collection. It contains specific instructions for the three acquisition building blocks – primary collection, administrative data, and third-party data – as these all require very different approaches. Data acquisition overlaps with the other aspects of data governance, particularly with issues to do with data quality such as completeness, validity and accuracy.
 
 ### Registration form design
 
-> _Placeholder: principles of good registration form design in social protection contexts_
+A registration form is a guideline document that provides the specifications for questionnaire design. In settings where data is collected from individuals or households, its purpose is to ensure that the survey instrument, which is an essential operational aspect of primary data collection, is compliant with personal data protection, effective and efficient.
 
 ### Data sharing agreements
 
-> _Placeholder: what a data sharing agreement covers, when it is required, key clauses_
+Data sharing agreements outline the terms and conditions under which data can be shared between parties, including the purpose of the data sharing, the types of data involved, and the responsibilities of each party. It ensures compliance with legal, organisational and security standards to protect the data and the personal data protection and privacy of individuals whose data is being shared.
 
 ### Service level agreements
 
-> _Placeholder: what SLAs cover in the data context, typical parameters_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum first steps for a low-capacity context_
-
-## Common pitfalls
-
-> _Placeholder: e.g. data collected without formal agreements, non-standardised forms across regions_
+In this context, a service level agreement is a contractual document that specifies the terms on which a commercial provider will provide data or data-related services to one of the public bodies that are stakeholders of the social protection database. It outlines the services provided (including data provision), the expected standards of these services, and the responsibilities of both parties to the agreement.
 
 ## Related building blocks
 

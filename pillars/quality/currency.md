@@ -1,10 +1,6 @@
 # Currency
 
-Currency (also called timeliness) refers to the degree to which data is sufficiently up to date for its intended use. In social protection systems, outdated data can lead to payments reaching ineligible beneficiaries or eligible individuals being excluded.
-
-## What good looks like
-
-> _Placeholder: from framework text — regular update cycles, data sharing agreements that trigger updates, service level agreements specifying timeliness requirements_
+Currency is the degree to which data is up-to-date and available when needed. Timeliness in a social protection database means that the data is current and reflects the latest information about individuals and households, which is critical for informed eligibility decisions and the distribution of support. Outdated data can lead to delays in service delivery, incorrect eligibility assessments, and inefficient programme administration.
 
 ## Implementation mechanisms
 
@@ -16,25 +12,11 @@ Currency (also called timeliness) refers to the degree to which data is sufficie
 
 **Key:** DA = data administrator; GC = governance council; DP = data provider; DC = data collector; PA = programme administrator; IT = IT services
 
-### Data acquisition policy (currency dimension)
+The implementation mechanisms for this building block are described under the Management Pillar:
 
-> _Placeholder: how acquisition policy addresses update frequency and triggers for re-collection_
-
-### Data sharing agreements (currency dimension)
-
-> _Placeholder: how data sharing agreements specify timeliness requirements from external providers_
-
-### Service level agreements (currency dimension)
-
-> _Placeholder: how SLAs define maximum acceptable data age and update frequency_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. defined update schedule in the data management plan_
-
-## Common pitfalls
-
-> _Placeholder: e.g. data collected once and never updated; no formal trigger for re-registration after life events_
+- **Data acquisition policy** — see description under Management Pillar
+- **Data sharing agreement** — see description under Management Pillar
+- **Service level agreement** — see description under Management Pillar
 
 ## Related building blocks
 

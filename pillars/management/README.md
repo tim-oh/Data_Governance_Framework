@@ -17,7 +17,7 @@ Sound data management supports reliable operations, brings operational efficienc
 
 ## Why this pillar matters
 
-> _Placeholder: expand from framework text (p. 21) — operational efficiency, compliance, risk of erratic implementation_
+Data management is a critical pillar of the proposed Data Governance Framework. It comprises six stages across the data lifecycle: (i) plan, (ii) acquire, (iii) process, (iv) analyse, (v) use and share/publish, and (vi) delete/archive. The use/share and publish building block is discussed under Pillar 3: Access. In each block, we discuss implementation mechanisms (Level 3) that provide practical tools. As a summary of the overall pillar and to provide additional detail, the section concludes with a RACI matrix that assigns roles and responsibilities (Level 4) in terms of specific tasks (Level 5).
 
 ## Roles overview
 

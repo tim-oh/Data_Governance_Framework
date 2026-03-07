@@ -1,10 +1,6 @@
 # Technical measures
 
-Technical measures are the technology-based controls that protect data from unauthorised access, interception, and loss. They form the first line of defence in any data security architecture.
-
-## What good looks like
-
-> _Placeholder: from framework text — encryption at rest and in transit, strong authentication, network segmentation, regular patching, endpoint protection, penetration testing_
+Technical measures comprise technologies and protocols implemented to ensure the security and integrity of data within the social protection system. In the context of low- and middle-income countries (LMICs), these measures are critical for protecting sensitive information, preventing unauthorised access, and minimising the risk of data breaches. They encompass encryption, network security, data loss prevention, and more, which work together to safeguard the system from both internal and external threats.
 
 ## Implementation mechanisms
 
@@ -22,39 +18,31 @@ Technical measures are the technology-based controls that protect data from unau
 
 ### Encryption
 
-> _Placeholder: encryption at rest and in transit; key management; minimum standards_
+Protects data by converting it into an unreadable format for users without a key, thus excluding unauthorised users. Data both at rest and in transit should be encrypted to ensure confidentiality and integrity, protecting it against easy interception.
 
 ### Authentication
 
-> _Placeholder: multi-factor authentication, password policies, session management_
+Verification of user identity is essential for security before access to the system and, thus, to sensitive data can be granted. Passwords, multi-factor authentication, and biometric methods are most used to limit access to sensitive data.
 
 ### Data loss prevention
 
-> _Placeholder: DLP tools and policies to prevent accidental or deliberate data exfiltration_
+A set of tools and processes designed to ensure that sensitive data is not lost, misused, or accessed by unauthorised individuals, which includes the monitoring of data transfers, file sharing, and perhaps even printing to prevent data leaks.
 
 ### Network security
 
-> _Placeholder: firewalls, network segmentation, intrusion detection_
+The protection of network infrastructure from commercial and state hackers is essential for a large system that holds extensive personal data. Firewalls and intrusion detection systems can help to make sure that the social protection system's network is safeguarded against unauthorised access, hacking or malware.
 
 ### Endpoint security
 
-> _Placeholder: device-level protection for all devices that access social protection data_
+Security that relates to individual devices, e.g. laptops or mobile phones, that may access sensitive data.
 
 ### Patches and updates
 
-> _Placeholder: patch management policy and process; risk of unpatched systems_
+Regularly applying patches and updates to operating systems, software, and even hardware is key to closing vulnerabilities and enhancing overall security.
 
 ### Penetration testing
 
-> _Placeholder: regular testing to identify vulnerabilities before they are exploited_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps for a low-resource context — e.g. encryption in transit, strong passwords, regular patching_
-
-## Common pitfalls
-
-> _Placeholder: e.g. no encryption on mobile devices used in field collection; default passwords not changed_
+Simulates hacking attacks to test ICT security defences, with the aim of identifying potential vulnerabilities before they can be exploited by malicious actors. The test results should then inform security improvements and updates.
 
 ## Related building blocks
 

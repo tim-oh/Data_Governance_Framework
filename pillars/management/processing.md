@@ -1,10 +1,6 @@
 # Processing
 
-The Processing building block covers how data is handled once acquired — including eligibility determination, data processing workflows, and the management of exits from the system.
-
-## What good looks like
-
-> _Placeholder: from framework text — documented and consistently applied eligibility rules, clear exit procedures, audit trails_
+At this stage, data is transformed through one or several processing steps into a format that serves operational requirements. The infrastructure must be in place to permit the required data preparation and transformation for optimal data usage. The Level 3 implementation mechanisms span many of the delivery chain functions performed by social protection information systems. An exhaustive discussion of processing activities is beyond the scope of this text. Here, we focus on eligibility determination, including assessment of needs and on what to base the decision, as an example of a processing activity. For an in-depth discussion of social protection service delivery, see Lindert et al., (2020). CORE-MIS (2025) is an example of an open-source software platform that performs a number of related processing steps.
 
 ## Implementation mechanisms
 
@@ -18,23 +14,15 @@ The Processing building block covers how data is handled once acquired — inclu
 
 ### Eligibility process documentation
 
-> _Placeholder: what this covers — written documentation of the rules and processes used to determine eligibility_
+Supporting eligibility determination across different programmes, each with different eligibility approaches, criteria and mechanisms, is a core processing task of many social registries (Leite et al, 2017), and its performance is a key policy concern. Clear documentation on how the determination should be developed, assessed, used and updated promotes accurate and reliable assessment.
 
 ### Eligibility determination
 
-> _Placeholder: the process for determining beneficiary eligibility, including data inputs, scoring, and decision rules_
+The overall policy design of social protection programmes determines how the assignment of eligibility should be conducted in general terms. The task of turning such principles into actionable evidence at the applicant level requires identification of the beneficiaries who are entitled to receive social protection benefits. The process also needs to ensure that the correct number of beneficiaries is selected, in line with programme objectives and possible resource constraints.
 
 ### Exit process
 
-> _Placeholder: how beneficiaries are exited from the system — triggers, procedures, notifications_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps for low-capacity contexts_
-
-## Common pitfalls
-
-> _Placeholder: e.g. undocumented rules applied inconsistently, no formal exit process leading to ghost beneficiaries_
+The exit process refers to the procedures in place to manage the transition of beneficiaries out of a programme. As social protection programmes tend to run for long periods, but are often designed for limited benefit duration, the due exit of current beneficiaries is similarly important as accurate eligibility determination, to which it is closely related.
 
 ## Related building blocks
 

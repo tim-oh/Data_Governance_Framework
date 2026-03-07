@@ -1,10 +1,6 @@
 # Internal access
 
-Internal access covers the management of access rights for staff and internal users of social protection data systems. Controlling who can access what data, and revoking access when no longer needed, is fundamental to data security and privacy.
-
-## What good looks like
-
-> _Placeholder: from framework text — role-based access controls, HR database linked to system permissions, regular access reviews, prompt revocation on departure_
+Data access by staff is a condition for the effective execution of many duties and responsibilities. Providing access as and when required, at low administrative cost, while maintaining data protection and security, is the purpose of internal data access.
 
 ## Implementation mechanisms
 
@@ -17,19 +13,11 @@ Internal access covers the management of access rights for staff and internal us
 
 ### HR database
 
-> _Placeholder: how an HR database supports access management — linking staff records to system permissions_
+A HR database is the systematic assignment of access rights and is essential for the internal implementation of the data access policy. As per data protection rules, access to personal data should be restricted on the basis of the 'need to know' principle. Apart from the various HR management uses of such a database, perhaps the key function of an HR database from a data governance perspective is the assignment of job categories to each staff member. These groups, likely tied to the major job roles in the organisation, can be assigned user rights that satisfy the data requirements for the effective performance of each role (including both read and write access). As expressed in the data access policy, the default position should be no access, with rights only granted when necessary.
 
 ### Account permission and revocation
 
-> _Placeholder: processes for granting, modifying, and revoking system access; role-based access control principles_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. named account per user (no shared logins), formal revocation process on departure_
-
-## Common pitfalls
-
-> _Placeholder: e.g. shared accounts; former employees retaining access; access granted beyond what role requires_
+Account permissions implement the access rights listed in the HR database and amended by successful data access requests. Each data system from which social protection information can be accessed must be restricted to permissioned accounts. To maintain data protection, the revocation of rights is as important as their granting.
 
 ## Related building blocks
 

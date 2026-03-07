@@ -1,10 +1,6 @@
 # Validity
 
-Validity refers to the degree to which data conforms to defined formats, value ranges, and business rules. Invalid data may be technically present but meaningless or misleading for decision-making.
-
-## What good looks like
-
-> _Placeholder: from framework text — validation rules enforced at point of entry, data catalogue defines valid values and formats, regular audits against business rules_
+Validity is the extent to which data accurately represents the intended measure or concept. Invalid data can lead to incorrect eligibility determinations, the misallocation of resources, and ineffective programme outcomes, compromising the goals of social protection initiatives.
 
 ## Implementation mechanisms
 
@@ -15,21 +11,10 @@ Validity refers to the degree to which data conforms to defined formats, value r
 
 **Key:** DA = data administrator; GC = governance council; DP = data provider; DC = data collector; PA = programme administrator; IT = IT services
 
-### Data catalogue (validity dimension)
+The implementation mechanisms for this building block are described under the Management Pillar:
 
-> _Placeholder: how the data catalogue defines valid formats, ranges, and codes for each variable_
-
-### Data sharing agreements (validity dimension)
-
-> _Placeholder: how data sharing agreements specify data format and validity requirements from providers_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. field-level validation rules in the registration system_
-
-## Common pitfalls
-
-> _Placeholder: e.g. free-text fields where controlled vocabularies should be used; no validation at point of entry_
+- **Data catalogue** — see description under Management Pillar
+- **Data sharing agreement** — see description under Management Pillar
 
 ## Related building blocks
 

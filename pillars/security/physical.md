@@ -1,10 +1,6 @@
 # Physical measures
 
-Physical measures protect data and the systems that hold it from physical threats — including unauthorised physical access to facilities, device theft or loss, and hardware failure.
-
-## What good looks like
-
-> _Placeholder: from framework text — controlled physical access to server rooms and offices, device protection policies, regular backups with tested recovery_
+Physical measures ensure the physical security of the facilities and hardware that store or access the social protection data. These protections aim to prevent unauthorised individuals from physically accessing, damaging, or stealing the hardware and storage devices that house sensitive information.
 
 ## Implementation mechanisms
 
@@ -18,23 +14,15 @@ Physical measures protect data and the systems that hold it from physical threat
 
 ### Secured access
 
-> _Placeholder: physical access controls for server rooms, offices, and field equipment; visitor management_
+Involves restricting access to buildings, rooms, or areas where sensitive data is stored or processed. This can include access control mechanisms such as keycards, biometrics, or security personnel to ensure that only authorised individuals can physically interact with the system.
 
 ### Device protection
 
-> _Placeholder: policies for protecting laptops, tablets, and mobile devices used in data collection and administration_
+Ensures that hardware devices used to access or store registry data are physically secure from theft, tampering, or damage. This could include locking mechanisms, surveillance, and other safeguards to protect servers, computers, and portable devices like laptops and smartphones.
 
 ### Backup and recovery
 
-> _Placeholder: backup frequency, storage location (off-site/cloud), recovery time objectives, testing_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. locked server room, full data backups with off-site copy_
-
-## Common pitfalls
-
-> _Placeholder: e.g. backups taken but never tested; devices used for data collection have no encryption or remote wipe capability_
+Regularly creates secure backups of critical data and stores them in protected locations. These backups allow for the restoration of data in the event of data loss due to physical damage, corruption, or security incidents, ensuring that the registry's operations can continue without significant data loss.
 
 ## Related building blocks
 

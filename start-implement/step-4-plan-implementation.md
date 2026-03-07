@@ -1,37 +1,12 @@
-# Step 4: Plan implementation
+# Step 4. Plan implementation: Prioritisation and project design
 
-**Focus: Prioritisation and project design**
+- **Evaluate impact:** Data governance activities are valuable because they ultimately support the policy outcomes that motivate social protection. The closing of any gap identified in Step 3 should have a beneficial impact, but in a world of limited resources, the question is how much impact. In view of their limited implementation capacity, policy makers need to choose between the options that their policy environment presents. An evaluation of their respective impact allows reform initiatives to be ranked to establish an importance hierarchy. There are many possible dimensions of policy impact, such as better service delivery, lower administrative cost, an enhanced beneficiary experience, or the avoidance of regulatory and reputational risk. Clear measurement or even estimation may not be feasible or may be impractical. For these reasons, thinking of impact as falling into a few categories, e.g. high/low, high/medium/low, or 1/2/3/4/5 should suffice for this exercise.
 
-The fourth step is to develop a prioritised implementation plan — deciding which mechanisms to address first based on gap analysis, priority ratings, and available resources.
+- **Estimate resource needs:** Resource needs are the flipside of policy impact. Just as the closing of relevant policy gaps should improve outcomes, it can consume scarce resources and, therefore, poses an opportunity cost of missed alternatives. Costs include items such as financial expenses, staff time, management attention, and infrastructure utilisation, and a broad categorisation that mirrors that of impact should suffice. Due to competing resource demands on each cost type, the reduction to a single cost category may need to be that of the highest scarce resource. For instance, high management attention (resource needs) can probably not be balanced by low financial cost, as fully occupied management attention becomes a bottleneck. The overall assessment of resources can be ranked similarly to impact, providing the other leg that prioritisation stands on.
 
-## What this step involves
+- **Prioritise initiatives:** When impact and cost have been categorised, they can be plotted together in the manner illustrated in Figure 8 for resource-conscious prioritisation. 'Broadly right, rather than precisely wrong' should be the motto, as this visual tool should facilitate rather than complicate the planning process. Initiatives in the quadrant marked I should be prioritised for immediate implementation, as they promise high impact at low cost. Low impact but low-cost initiatives in quadrant II should be considered for immediate implementation and selected if their implementation will not deter more valuable alternatives. Quadrant III contains the high impact and high-cost initiatives that need to be tackled, but which would detract from more efficient action in the short-term. Laying the ground for their implementation, which may lower cost or spread it over time, may be a sensible way to begin addressing these. Finally, quadrant IV includes costly, but low impact, items that should be deferred until their relative importance rises (as more high impact measures are exhausted) or their cost can be lowered.
 
-> _Placeholder: from framework text (p. 72) — using priority ratings from the framework (Immediate/Intermediate), adapting to local capacity and political conditions, designing projects with clear milestones_
-
-## Key actions
-
-> _Placeholder: list of practical actions for this step_
-
-## Prioritisation guidance
-
-The framework assigns each mechanism a priority level:
-
-- **Immediate** — foundational; should be addressed in the first phase
-- **Intermediate** — important; should be addressed once immediate priorities are in place
-
-See [Table 1](../pillars/README.md) for priority ratings for all mechanisms.
-
-## Who needs to be involved
-
-> _Placeholder: governance council, data administrators, project management capacity — see [Roles and responsibilities](../pillars/roles-and-responsibilities.md)_
-
-## Tools and resources
-
-> _Placeholder: relevant toolkit items for planning and prioritisation_
-
-## Common challenges
-
-> _Placeholder: e.g. too many immediate priorities and insufficient capacity; plan not aligned with budget cycles; no project management capacity_
+- **Plan activities:** A detailed implementation plan is the final preparatory activity after selection of the prioritised and costed activities. For each initiative, a review, adjustment or creation of an organisation-specific RACI matrix can be a first step. A more detailed development of tasks, their inter-relations and pre-conditions is advisable in this regard. Target dates for this personalised plan of action can then be set to create a Plan of Action and Milestones (POA&M) (OMB, 2001), for a light-weight monitoring tool, or a more extensive Gantt chart for a detailed project management approach. The secretariat should advise on the suitable tools and support planning, as required, and facilitate discussions on inter-dependent activities across organisations. Before adopting the various organisations' implementation plans, these should be validated, both at technical and leadership levels.
 
 ---
 

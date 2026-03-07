@@ -1,0 +1,17 @@
+# Implementation guidance
+
+Across four pillars, this Framework suggests many steps towards good data governance. The steps are formulated in general terms that make no reference to specific conditions, as they aim to cover the essential ground, wherever they may be applied. Accordingly, the Framework gains universality at the cost of specificity. Even if one is to accept fully that the pillars and building blocks are suitable for the realisation of policy objectives, it needs to be determined whether the implementation mechanisms are the best approach for a given setting, and how to break these down into particular operational actions. This part suggests a project management approach to Framework implementation.
+
+## Implementation cycle
+
+Although the Framework implies that data governance can be summarised, partitioned and assigned as proposed, many policy settings have a particular architecture that differs from that laid out in this Framework. Others will have already implemented some building blocks or find the particular mechanisms less than ideal for their policy environment. Instead of serving as a detailed guide, this Framework is a starting point for implementation planning. This part suggests a process that policy makers can use to adjust, adapt, and operationalise the pillars in a manner that is well-adjusted to their context. The suggested process is based on Section 3 of NIST's Cybersecurity Framework 2.0 (NIST, 2024).
+
+The implementation cycle is presented in a structured and sequenced manner to describe the stages clearly. The reality of policy reform and implementation is much more adaptive and continuous than this 'linear cycle'; a responsive approach that is adaptive to evolving policy needs and stakeholder requirements should be embraced to ensure sustainable and well-adjusted policy outcomes. It is also important to note that many of the implementation mechanisms proposed in this Framework are on-going rather than once-off activities. In short, the purpose of the implementation cycle is to build dynamic, live systems.
+
+The cycle consists of five steps:
+
+1. **Convene stakeholders:** Governance and accountability
+2. **Define scope:** Policy and contextual fit
+3. **Profile organisations:** Current status and gaps
+4. **Plan implementation:** Prioritisation and project design
+5. **Implement the plan:** Project management and iteration

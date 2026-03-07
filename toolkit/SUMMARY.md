@@ -36,7 +36,7 @@
 ### Accuracy
 * [Registration officer training](registration-officer-training.md)
 * [Pilot registration](pilot-registration.md)
-* [Real-time monitoring](real-time-monitoring.md)
+* [Real-time survey monitoring](real-time-survey-monitoring.md)
 * [Access and rectification modality](access-and-rectification-modality.md)
 
 ### Currency
@@ -85,7 +85,7 @@
 * [Penetration testing](penetration-testing.md)
 
 ### Organisational
-* [Incident response, disaster recovery and business continuity](incident-response-disaster-recovery.md)
+* [Incident response plans, disaster recovery and business continuity](incident-response-plans-disaster-recovery.md)
 * [IT supplier risk management](it-supplier-risk-management.md)
 * [Regular security review](regular-security-review.md)
 

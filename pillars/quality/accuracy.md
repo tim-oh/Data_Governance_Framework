@@ -1,10 +1,6 @@
 # Accuracy
 
-Accuracy refers to the degree to which data correctly represents the real-world attributes it is intended to describe. Inaccurate data leads directly to errors in eligibility determination and benefit delivery.
-
-## What good looks like
-
-> _Placeholder: from framework text — well-trained field staff, pilot-tested registration tools, real-time error flagging, accessible rectification processes_
+Accuracy refers to the correctness and precision of the data recorded in the social protection database. Accurate data ensures that the information about individuals and households reflects their true circumstances, and that eligibility determination can be conducted effectively on that basis. Inaccurate data can result in the misallocation of benefits, fraud, and errors in policy implementation, affecting the integrity of social protection programmes.
 
 ## Implementation mechanisms
 
@@ -12,34 +8,26 @@ Accuracy refers to the degree to which data correctly represents the real-world 
 |-----------|----------|---|---|---|---|
 | [Registration officer training](../../toolkit/registration-officer-training.md) | Immediate | DC | DC | DA, PA | — |
 | [Pilot registration](../../toolkit/pilot-registration.md) | Intermediate | DC | DC | — | — |
-| [Real-time monitoring](../../toolkit/real-time-monitoring.md) | Intermediate | DC | DC | — | GC, DA |
+| [Real-time survey monitoring](../../toolkit/real-time-survey-monitoring.md) | Intermediate | DC | DC | — | GC, DA |
 | [Access and rectification modality](../../toolkit/access-and-rectification-modality.md) | Intermediate | DA, IT | DA | — | PA, GC |
 
 **Key:** DA = data administrator; GC = governance council; DC = data collector; PA = programme administrator; IT = IT services
 
 ### Registration officer training
 
-> _Placeholder: what training should cover, how to deliver and assess it_
+Registration officer training equips the officers that collect household data with the instructions and knowledge required to perform their duties effectively. Training is especially important when non-professional enumerators carry out the data collection. The training is most directly linked with questionnaire design, but relates closely to data quality, data protection and privacy, and ICT security.
 
 ### Pilot registration
 
-> _Placeholder: role of pilots in identifying accuracy problems before full rollout_
+A pilot registration drive, referred to as pre-testing (or preliminary testing) in the survey literature, is a small-scale, but nevertheless extensive, validation approach for data collection that can be employed for on-demand registration as well. It ensures that both survey instrument and enumerator training are effective at soliciting accurate information by trialling them under realistic conditions.
 
-### Real-time monitoring
+### Real-time survey monitoring
 
-> _Placeholder: systems for flagging data entry errors during collection_
+Real-time survey monitoring is a supervision system that tracks and monitors responses as they are submitted by enumerators or applicants themselves. It supports data quality through the continuous quality assurance of data entry and supervision of enumerator performance. The monitoring system can be tested as a part of the pilot survey.
 
 ### Access and rectification modality
 
-> _Placeholder: how beneficiaries or subjects can access and correct their data_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. standardised training for all data collectors as a baseline_
-
-## Common pitfalls
-
-> _Placeholder: e.g. no training refresh after system changes; no mechanism for individuals to correct errors_
+A data access and rectification modality is a mechanism for households to gain access to the data that the social protection database holds on them to rectify mistakes and fill in missing data. It supports overall accuracy, as households are the best source of information on their own circumstances. It aligns with statutory data protection rights and is, therefore, closely linked to the Security Pillar of data governance.
 
 ## Related building blocks
 
@@ -50,5 +38,5 @@ Accuracy refers to the degree to which data correctly represents the real-world 
 
 - [Registration officer training](../../toolkit/registration-officer-training.md)
 - [Pilot registration](../../toolkit/pilot-registration.md)
-- [Real-time monitoring](../../toolkit/real-time-monitoring.md)
+- [Real-time survey monitoring](../../toolkit/real-time-survey-monitoring.md)
 - [Access and rectification modality](../../toolkit/access-and-rectification-modality.md)

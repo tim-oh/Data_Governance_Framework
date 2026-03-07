@@ -1,35 +1,23 @@
 # People measures
 
-People measures address the human dimension of data security — ensuring staff are trained to handle data securely and that risks from insider threats are managed. People are both the most important asset and the most common source of security vulnerabilities.
-
-## What good looks like
-
-> _Placeholder: from framework text — regular security training for all staff with data access, insider threat awareness programme, clear policies on acceptable use_
+People measures address the human element of security, focusing on fostering a security-conscious culture within the organisation. These measures are essential for empowering staff and stakeholders with the knowledge and skills necessary to detect and prevent security breaches, both accidental and malicious.
 
 ## Implementation mechanisms
 
 | Mechanism | Priority | R | A | C | I |
 |-----------|----------|---|---|---|---|
-| [Training](../../toolkit/security-training.md) | Intermediate | DA, PA, DP, DC, IT | GC | — | — |
+| [Security training](../../toolkit/security-training.md) | Intermediate | DA, PA, DP, DC, IT | GC | — | — |
 | [Insider threat management](../../toolkit/insider-threat-management.md) | Intermediate | DA, PA, DP, DC, IT | GC | — | — |
 
 **Key:** DA = data administrator; GC = governance council; DP = data provider; DC = data collector; PA = programme administrator; IT = IT services
 
-### Training
+### Security training
 
-> _Placeholder: content of security training, who should receive it, how often it should be updated, how to verify completion_
+Provides regular education for staff on security protocols, emerging threats, and best practices for data safekeeping. Training may cover topics such as recognising phishing attacks, using encryption, and adhering to data privacy laws, ensuring staff are aware of their roles in maintaining security.
 
 ### Insider threat management
 
-> _Placeholder: identifying and managing the risk of deliberate or accidental misuse of data by staff; acceptable use policies; monitoring and audit_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. basic security induction for all new staff with data access_
-
-## Common pitfalls
-
-> _Placeholder: e.g. training done once at onboarding and never refreshed; no acceptable use policy; privileged users with no additional oversight_
+Monitors and mitigates risks posed by individuals working within the social protection sector who may compromise security, whether by design or by accident. This includes mechanisms for detecting suspicious behaviour, preventing misuse of access, and responding to potential internal threats.
 
 ## Related building blocks
 

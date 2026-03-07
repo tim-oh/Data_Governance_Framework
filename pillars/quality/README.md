@@ -17,7 +17,7 @@ Poor data quality leads to errors in beneficiary selection, wrong benefit packag
 
 ## Why this pillar matters
 
-> _Placeholder: from framework text (pp. 37–49) — consequences of poor quality data for eligibility, operations, and public trust_
+Data quality deals with procedures and processes that ensure data is accurate, consistent, complete, and reliable. The building blocks of data quality are the DAMA-DMBOK2 (DAMA, 2017) set of six dimensions: (i) completeness, (ii) accuracy, (iii) currency, (iv) consistency, (v) validity, and (vi) uniqueness. Data quality aspects may include accurate enumeration, data rectification, data quality assurance and control, and complete household listing. Data quality enables better eligibility determination, operational efficiency, and compliance, ultimately improving public satisfaction. Poor-quality data can lead to mistakes in beneficiary selection, attribution of the wrong benefit package, and dissatisfaction with public services.
 
 ## Roles overview
 

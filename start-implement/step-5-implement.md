@@ -1,35 +1,13 @@
-# Step 5: Implement the plan
+# Step 5. Implement the plan: Project management and iteration
 
-**Focus: Project management and iteration**
+- **Execute the plan:** Careful scoping, profiling and planning exercises are the foundation of effective implementation. When those stages have been completed, it is time to convert well-laid plans into action. By this point, the core actors in each organisation should be aware of their position in the RACI matrix and their implementation responsibilities, the respective target dates for completion, and the resources needed for execution. Putting these resources to work should then turn policy intention into administrative reality.
 
-The fifth step is to execute the implementation plan, managing delivery, monitoring progress, and iterating based on what is learned. Data governance is a continuous process, not a one-time exercise.
+- **Account for progress:** In view of the high impact of data governance on policy outcomes, the institutions that commit to developing their frameworks need to be held accountable. Open and transparent reporting of progress may be the simplest and most effective accountability mechanism. Mirroring the governance structure, reporting can occur at different frequencies. Depending on the length of the overall implementation cycle, monthly or bi-monthly technical meetings at the technical level can be organised by the secretariat to gather status updates from all stakeholders. Quarterly reports to the data governance council that provide an overview of major developments and challenges may be appropriate. Bottlenecks that may be resolved by high-level interventions, e.g. resourcing or competency issues, can be addressed in this avenue.
 
-## What this step involves
+- **Update profiles (refer to Step 3):** On completion of each implementation cycle, all stakeholders should revisit their organisational profiles. Updates to the current profile show the evolution of data governance and provide a clear progress marker. A re-assessment of current status in areas untouched by reform initiatives is one side of this, and a re-consideration of gaps is the other. The latter is especially important, as it enables a maturity-style approach to continuous improvement that does justice to evolving data governance requirements and sets stretch targets for organisational capacity in this key area of modern public administration.
 
-> _Placeholder: from framework text (p. 73) — project management, stakeholder coordination, progress monitoring, periodic review and updating of the plan_
-
-## Key actions
-
-> _Placeholder: list of practical actions for this step_
-
-## Iteration and review
-
-The framework should be treated as a living document. As data governance practices, technology, and the policy environment evolve, the implementation plan should be reviewed and updated. Build in formal review points from the outset.
-
-## Who needs to be involved
-
-> _Placeholder: all roles depending on the mechanisms being implemented; governance council for oversight — see [Roles and responsibilities](../pillars/roles-and-responsibilities.md)_
-
-## Tools and resources
-
-> _Placeholder: relevant toolkit items for project management and monitoring_
-
-## Common challenges
-
-> _Placeholder: e.g. implementation stalls after initial momentum; no mechanism to review and update the plan; progress not monitored_
+The iterative and recurring process outlined above provides practical advice towards implementing the Data Governance Framework summarised in Figure 1. The previous sections delved into the specific aspects and how it can be put in practice in general terms. The next part looks at some examples of how different countries have applied particular policy aspects of data governance in their contexts.
 
 ---
 
 **Previous step:** [Step 4: Plan implementation](step-4-plan-implementation.md)
-
-**Completed the cycle?** Return to [Start here](README.md) to review scope and priorities as your context evolves.

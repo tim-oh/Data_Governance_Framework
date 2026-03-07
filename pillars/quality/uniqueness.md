@@ -1,10 +1,6 @@
 # Uniqueness
 
-Uniqueness refers to the degree to which each individual or entity is represented only once in the system. Duplicate records inflate coverage estimates, enable fraud, and complicate benefit delivery.
-
-## What good looks like
-
-> _Placeholder: from framework text — unique identifier system linked to civil registration or biometrics, deduplication process, master data model_
+Uniqueness establishes an unambiguous representation of a social protection actor, such as a person, household, location, or programme, across the whole data system. It prevents duplicate records, ensures accurate analytics, and underpins fair and efficient service delivery. Uniqueness is enforced through unique identifiers and can be supported with data quality procedures such as matching algorithms for de-duplication.
 
 ## Implementation mechanisms
 
@@ -17,19 +13,11 @@ Uniqueness refers to the degree to which each individual or entity is represente
 
 ### Master data model
 
-> _Placeholder: what a master data model is, how it defines the canonical representation of each entity type_
+Master data can be summarised as essential information about the core components of a data system. It changes slowly, in contrast to transaction data, which evolves in daily operation. Accordingly, the master data model is a blueprint of the core entities and reference lists that underpin the data ecosystem. It establishes unique keys, standard attributes, and authoritative sources for each entity so that every system component refers to the same object in the same way. A well-structured master data model reduces duplication, enables interoperability, and is the foundation for data quality, as it facilitates deduplication, reconciliation, and analytics.
 
 ### Unique identifier
 
-> _Placeholder: types of unique identifiers used in social protection (national ID, biometric ID), how to implement and manage them_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. deduplication check against existing records at registration_
-
-## Common pitfalls
-
-> _Placeholder: e.g. no unique ID leads to duplicate registrations; multiple programmes maintain separate registries with no deduplication_
+A unique identifier (UID) is an alphanumeric code that is issued to each registration officer, whether household or individual, on first registration. As the name suggests, it serves as an identifier across databases in the social protection system, enabling data from different sources to be linked to the appropriate assistance unit. It also serves to establish identity by providing a link with hard-to-falsify verification information such as biometrics or log-in credentials. The master ledger of UIDs is highly sensitive and needs to be protected against loss, unauthorised access and improper manipulation.
 
 ## Related building blocks
 

@@ -1,28 +1,12 @@
-# Step 1: Convene stakeholders
+# Step 1. Convene stakeholders: Governance and accountability
 
-**Focus: Governance and accountability**
+The previous parts of this Framework have highlighted not only the width and breadth of data governance as a field, but also the numerous actors who need to collaborate in its implementation. Intra- and inter-organisational effort is required for data governance to be effective, comprehensive and complete. A structured approach to fostering these efforts is a pre-condition for successful implementation and, thus, the first step in the implementation journey.
 
-The first step is to establish the governance structures and accountability arrangements that will oversee data governance reform. Without clear ownership and political commitment at the right level, implementation efforts are unlikely to sustain.
+- **Map the data architecture:** A comprehensive mapping of current (and potential future) data flows and responsibilities can serve as the starting point. Compilation of a figure similar to the stylised Figure 7, but containing the full set of data providers and users, can be the heart of this task (also see the sub-section on the 'Master data model' in Pillar 2: Quality). A listing of the relevant institutions that provide data-related governance, regulation and oversight may complete the picture. A digital infrastructure department that provides government IT services, a data protection authority that supervises the relevant law, an agency that oversees the implementation of ICT security standards, an institution with a sector-wide coordination mandate, and the finance ministry are examples of overarching stakeholders whose inclusion should be considered beyond the roles outlined in Part 1, Framework Overview.
 
-## What this step involves
+- **Gather stakeholders:** The gathering of core stakeholders is the first major step towards developing or strengthening a systemic and systematic data governance. An organisation with a coordination mandate for the sector or a top-level policy coordination body such as the presidency in a presidential system are examples of institutions that may have the authority and status to convene other ministries, departments and agencies for a joint initiative. Although one institution has to issue the initial invite, framing the initiative as a collaborative effort is advisable, as effective implementation will rely on the commitment of multiple stakeholders. The creation of a trusting and supportive environment will be essential in this regard. An off-site venue may foster the desired atmosphere. The inclusion of high-level or more technical staff, and whether all stakeholders should be invited from the beginning or a focus on an initial core group is advisable, should be considered carefully.
 
-> _Placeholder: from framework text (p. 69) — convening a data governance council or equivalent body, clarifying mandates, establishing a secretariat_
-
-## Key actions
-
-> _Placeholder: list of practical actions for this step_
-
-## Who needs to be involved
-
-> _Placeholder: which roles are essential at this step — typically senior representatives from all key institutions; see [Roles and responsibilities](../pillars/roles-and-responsibilities.md)_
-
-## Tools and resources
-
-> _Placeholder: relevant toolkit items for this step_
-
-## Common challenges
-
-> _Placeholder: e.g. difficulty convening across ministries; unclear mandates; lack of senior commitment_
+- **Structure governance:** Data governance reforms are at least a medium-term process, if not a continual endeavour without a fixed end point. Such extensive, far-reaching, multi-stakeholder policy reforms require a strong governance structure to be sustainable. Two levels of organisation may be advisable. One is a senior-level data governance council that meets infrequently, but that convenes top-level decision makers of the key stakeholders whose role is to set strategic direction, approve initiatives, and monitor progress against set objectives. Ideally, it would be chaired by a high-level political patron with the ability to guide the agenda, mobilise resources, and adjudicate disagreements. The other is a secretariat that manages the technical, mid-level activities required to implement the Framework. The secretariat should be based within an institution at the centre of data flows, such as a social registry or social affairs ministry, giving it a clear view of requirements and the status of other stakeholders' progress, and be chaired by a senior manager.
 
 ---
 

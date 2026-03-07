@@ -1,28 +1,8 @@
-# Step 3: Profile organisations
+# Step 3. Profile organisations: Current status and gaps
 
-**Focus: Current status and gaps**
+- **Create profiles:** Planning for data governance reforms requires a clear understanding of the current organisational profile in terms of data governance. These profiles differ in outline and content across the sector stakeholders that engage with the data governance development process. Scoping in Step 2 will have revealed the framework components that apply, but the creation of a detailed organisational profile that documents all is likely to require inputs from colleagues. The first part of profiling each stakeholder organisation is to gather the information necessary for profile creation, and the second part is to create the profile that summarises the insights.
 
-The third step is to assess the current state of data governance across the relevant organisations — identifying what is already in place, where the gaps are, and what the priorities should be.
-
-## What this step involves
-
-> _Placeholder: from framework text (p. 71) — assessing current mechanisms against framework building blocks, identifying gaps, documenting findings in an organisational profile_
-
-## Key actions
-
-> _Placeholder: list of practical actions for this step_
-
-## Who needs to be involved
-
-> _Placeholder: data administrators, IT services, programme administrators from each institution — see [Roles and responsibilities](../pillars/roles-and-responsibilities.md)_
-
-## Tools and resources
-
-> _Placeholder: relevant toolkit items — e.g. assessment checklist based on Table 1_
-
-## Common challenges
-
-> _Placeholder: e.g. information gaps; reluctance to disclose weaknesses; inconsistent understanding of what 'good' looks like across organisations_
+- **Identify gaps:** The formulation of development objectives can be framed as the difference between the status quo and desired situation. Whereas the creation of organisational profiles is a factual exercise, specifying the desired state is a matter of policy priorities in the context of the administrative, legal and political environment. In view of its current status, the organisation should formulate a target that at least meets minimum data governance requirements, if it currently falls below. When the basic conditions for sound data governance are in place, identification of possible improvements to the situation provides a policy target. Consultation of data maturity frameworks, such as the UK's Data Maturity Assessment for Government (HMG, 2023), can provide useful guidance in this regard, being careful to specify a realistically attainable improvement that can be implemented within the implementation cycles, which are discussed in the following Step 4.
 
 ---
 

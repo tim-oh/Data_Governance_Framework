@@ -1,10 +1,6 @@
 # Consistency
 
-Consistency refers to the degree to which data is coherent across sources, systems, and over time. Inconsistencies arise when the same individual's attributes are recorded differently in different systems, or when data entry practices vary across collectors or regions.
-
-## What good looks like
-
-> _Placeholder: from framework text — standardised data entry tools, reconciliation processes between systems, consistent coding and classification_
+Consistency is the uniformity of the data across different records and databases. Consistency in a social protection database ensures that information about individuals and households is the same across different datasets and over time. Inconsistent data can lead to the duplication of records, confusion, and errors in benefit distribution, undermining the effectiveness of social protection programmes.
 
 ## Implementation mechanisms
 
@@ -17,19 +13,11 @@ Consistency refers to the degree to which data is coherent across sources, syste
 
 ### Pre-populated Computer-Assisted Personal Interviewing (CAPI)
 
-> _Placeholder: how pre-populated CAPI tools reduce inconsistency by carrying forward existing data for verification rather than re-entry_
+CAPI stands for Computer-Assisted Personal Interviewing and refers to an electronic questionnaire implemented on a digital device, usually a tablet or smartphone. A pre-populated CAPI takes existing information to suggest answers for items that were previously recorded. CAPI supports efficiency and effectiveness by enhancing data quality, enabling flexible questionnaires that limit questions to relevant items, and allowing for real-time monitoring. It is closely related to various aspects of primary data acquisition and data quality.
 
 ### Discrepancy resolution process
 
-> _Placeholder: how to identify and resolve inconsistencies between data sources or records_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. standardised data entry forms with controlled vocabularies_
-
-## Common pitfalls
-
-> _Placeholder: e.g. different systems use different codes for the same variable; no process for resolving conflicts between sources_
+A discrepancy resolution process is a set of procedures that aligns the original data sources with the most recent social protection database. The process enhances the consistency of data, and needs to be coordinated with external data access and manipulation, which are under the Access Pillar. The details, which may vary between different information items from the same source, should be specified in the data sharing agreement.
 
 ## Related building blocks
 

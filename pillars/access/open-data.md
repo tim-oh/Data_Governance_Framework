@@ -1,10 +1,6 @@
 # Open data
 
-Open data covers the publication of social protection data for public use — including researchers, civil society, and the general public. Publishing data openly improves transparency and accountability, but requires careful anonymisation and a governed release process to protect personal data.
-
-## What good looks like
-
-> _Placeholder: from framework text — formal anonymisation process, release approval process with sign-off, accessible data portal_
+Open data can provide information access to the general public, including academia, civil society, citizens, the media and policy analysts. In view of data protection requirements and a lack of direct regulatory control of standard-setting institutions, the level of detail of data that can be made available via such a modality is more limited, and anonymised, by necessity. Nevertheless, information provided via an open data platform can further the public interest and merits support and attention. Barca et al. (2023a) highlight the potential and importance of open data in social protection. For research and other public interest purposes, micro-data access is another possible modality, in which more detailed datasets are provided to vetted users, usually researchers, who need to follow strict data safekeeping mandates.
 
 ## Implementation mechanisms
 
@@ -18,23 +14,15 @@ Open data covers the publication of social protection data for public use — in
 
 ### Anonymisation process
 
-> _Placeholder: anonymisation techniques, risk assessment for re-identification, what constitutes sufficient anonymisation in social protection contexts_
+Data held in a social protection database is inherently personal, sensitive and in need of privacy protection. As open data is available publicly without restrictions and identity verification, the publication of sensitive data would violate data protection laws. Accordingly, all individual or household-level data published under open access needs to be anonymised to remove identifiability.
 
 ### Release approval process
 
-> _Placeholder: governance steps for approving public data releases — who approves, what checks are required_
+Once data has been released to the public, its dissemination can no longer be controlled. In view of the irreversible nature of publication, it is essential that all datasets made available as open data be vetted carefully. A process similar to a data access request is indicated for this purpose.
 
 ### Data portal
 
-> _Placeholder: what a data portal should contain, how it should be structured for usability and discoverability_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. publish only aggregate statistics with a formal approval step_
-
-## Common pitfalls
-
-> _Placeholder: e.g. releasing data without adequate anonymisation; no formal release approval; data portal exists but is not maintained_
+The premise of open data is easy, universal access. An online portal is a sharing modality that can provide such access.
 
 ## Related building blocks
 

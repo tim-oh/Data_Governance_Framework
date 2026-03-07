@@ -1,10 +1,6 @@
 # Cross-cutting issues
 
-Cross-cutting issues are access governance mechanisms that apply across internal, external, and open data contexts. They establish the overarching policy framework, the process for handling access requests, and how individual consent is managed.
-
-## What good looks like
-
-> _Placeholder: from framework text — comprehensive data access policy, clear and accessible request process, robust consent management_
+Aspects of data access that apply across the three access types, including overall policy and processes that are necessary in a particular form in each case, are discussed here.
 
 ## Implementation mechanisms
 
@@ -18,23 +14,15 @@ Cross-cutting issues are access governance mechanisms that apply across internal
 
 ### Data access policy
 
-> _Placeholder: what a data access policy should cover — classification of data by sensitivity, authorisation levels, permissible uses_
+At its core, the data access policy determines who should gain which kind of data access to a given item. It draws on other aspects of data governance, such as the data sensitivity classification, and mandates the processes and procedures that facilitate implementation of its requirements. The policy should maintain a restrictive posture, meaning that the default is to assign zero rights to a role. Rights must only be assigned where necessary and the task cannot practically be performed by a role with existing rights.
 
 ### Access request process
 
-> _Placeholder: how individuals or organisations can request access to data — submission, review, approval, and notification steps_
+The data access policy can only provide general rules for granting access rights, and its restrictive posture means that many legitimate cases will be ruled out by default. To ensure due access, a request process that reviews cases and grants those that are in line with the general policy is required. Data access considerations vary according to the affiliation of the requesting party, being different for (i) the organisation's own staff, (ii) external access within the social protection space, and (iii) public access, including researchers, analysts, and the public sector.
 
 ### Consent management
 
-> _Placeholder: how informed consent is obtained, recorded, and managed; how to handle withdrawal of consent; legal basis for processing in contexts without full consent_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. a written data access policy and a named point of contact for access requests_
-
-## Common pitfalls
-
-> _Placeholder: e.g. no policy means ad hoc decisions; consent obtained but not recorded; no process for handling consent withdrawal_
+Consent management is the end-to-end process of capturing, storing, updating, and enforcing data subjects' permissions for the collection, processing, and sharing of their personal data. It operationalises the principles of informed, specific, freely given, and revocable consent required by modern data-protection laws, and it provides auditable proof that data use remains lawful over time.
 
 ## Related building blocks
 

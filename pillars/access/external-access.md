@@ -1,10 +1,6 @@
 # External access
 
-External access covers the sharing of data with other organisations — including other government agencies, development partners, and contracted service providers. All external data sharing should be governed by formal agreements and conducted through secure channels.
-
-## What good looks like
-
-> _Placeholder: from framework text — all external sharing covered by data sharing agreements, secure transfer channels, discrepancy resolution processes in place_
+In this context, external access refers to data access by organisations in the social protection space, as well as other social sector actors (e.g. health and education). These are likely to be public bodies, and the public sector is the focus of this first iteration of the Data Governance Framework. The initial focus is on laying a data governance foundation for members of the data governance council. It may be extended to non-governmental and international partner organisations, such as United Nations organisations, the World Bank and other multilateral development finance institutions, which would require adaptation of many of the tools, processes and procedures discussed below. Provision for private sector access is another possibility, which would require particular safeguards, starting with a new DPIA (see Management Pillar), as the two-way exchange of information with commercially-driven actors entails particular risks.
 
 ## Implementation mechanisms
 
@@ -12,29 +8,21 @@ External access covers the sharing of data with other organisations — includin
 |-----------|----------|---|---|---|---|
 | [Data sharing agreement](../../toolkit/data-sharing-agreements.md) | Immediate | DA, DP | GC | IT | — |
 | [Discrepancy resolution process](../../toolkit/discrepancy-resolution-process.md) | Intermediate | DA, DP, DC | GC | — | — |
-| [Secure sharing modality](../../toolkit/secure-sharing-modality.md) | Intermediate | IT | GC | — | — |
+| [Secure sharing modality](../../toolkit/secure-sharing-modality.md) | Immediate | IT | GC | — | — |
 
 **Key:** DA = data administrator; GC = governance council; DP = data provider; DC = data collector; IT = IT services
 
 ### Data sharing agreement
 
-> _Placeholder: what a data sharing agreement must cover for external sharing — purpose limitation, security requirements, data minimisation_
+See description of this item under 'Acquisition' in Management Pillar.
 
 ### Discrepancy resolution process
 
-> _Placeholder: process for identifying and resolving discrepancies that arise from data shared with or received from external organisations_
+See description of this item under Quality Pillar.
 
 ### Secure sharing modality
 
-> _Placeholder: technical options for secure data transfer — encrypted file transfer, API, secure portal_
-
-## Minimum viable implementation
-
-> _Placeholder: minimum steps — e.g. no external sharing without a written data sharing agreement_
-
-## Common pitfalls
-
-> _Placeholder: e.g. data shared informally by email; no record of what was shared with whom_
+When the legal, organisational and semantic conditions for data sharing have been met, the information needs to be exchanged via a secure and robust technical modality.
 
 ## Related building blocks
 

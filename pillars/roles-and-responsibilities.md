@@ -1,27 +1,30 @@
 # Roles and responsibilities
 
-The data governance roles used throughout this framework reflect the key functional positions found in most social protection information system architectures. A single institution may fulfil several roles, or roles may be split across institutions — the framework should be adapted accordingly.
+The architecture of social protection information systems varies widely, reflecting the diversity of programmes and institutions that make up the sector in different countries. Programme management information systems, social registries, and beneficiary registries are common data infrastructure designs, and it is not possible here to provide detailed recommendations for each type. Nevertheless, the core data exchange relationships are similar across national set-ups, and we can refer to key roles that are found in most. In practice, a single institution may fulfil several of these roles, or they may be split. But data governance requirements are linked to the functions and tasks inherent in data exchange, regardless of particular institutional boundaries; the following material should be interpreted accordingly and adapted to the specific architecture found in a given policy setting.
 
 ## Key roles
 
-| Role | Abbreviation | Description |
-|------|-------------|-------------|
-| Data governance council | GC | Sector-wide oversight body; proposes, evaluates, and signs off on policy; coordinates activities across actors |
-| Data administrator | DA | Curates and manages social protection data; policy design, coordination, and digital service execution |
-| Programme administrator | PA | Operates social protection programmes; manages programme-level data and IT systems |
-| Data collector | DC | Collects primary data via household interviews or registration exercises |
-| Data provider | DP | Produces relevant data as part of regular operations (e.g. civil registration, land registries) |
-| IT services | IT | Provides and operates technical infrastructure, data portals, and software support |
+- **Data governance council (GC):** Data governance is a sector-wide endeavour that is best overseen by a body that takes the same perspective. As various institutions may contribute to sector data and interact with the relevant database, a governance council comprised of senior representatives from the main stakeholders would provide suitable oversight. The role of the council is to oversee the sector's operational performance, to propose, evaluate and sign off on policy, and to coordinate the activities of sector members. In its role bearing ultimate responsibility for the sector's data governance, it has the power to convene and the ability to determine solutions on contentious topics. Senior council members would likely delegate representation to a mid-level staff member and reserve participation to occasional high-level meetings, at which periodic review and major policy directions would be discussed. A secretariat may be constituted to carry out its functions.
 
-> _Placeholder: expand descriptions from the framework text (pp. 15–17)_
+- **Data administrator (DA):** Data for social protection operations may be stored in one or several programme management information systems (MISs), in a social registry, or a beneficiary registry – in this document, we generally refer to these as a social protection database. The assumption in this text is that this information is curated by a policy maker who assumes a policy design, coordination, and digital service execution role. Technical database administration tasks also fall under this role, but a wider remit is intended in this description. In practice, some of the tasks involved in this role might be split with the IT services role (discussed below), with the distinction between the two lying in the focus of IT services on purely technical matters. The office of the organisational unit that administers the social protection data would often be a suitable host for the data governance secretariat that a data governance council may wish to create.
+
+- **Programme administrator (PA):** A given social protection programme may be provided by one of a variety of possible institutions. This text refers to such providers as programme administrators and assumes an operational and policy-implementation role for them. The institution may manage their data and IT systems, in which case they would also play the role of data administrator and of IT services, or even data collector.
+
+- **Data collector (DC):** The collection of primary data during personal or household interviews remains an important data acquisition method in many social protection systems. The results of such a registration exercise may account for a large part of the information that the sector holds. The data collector may be constituted by several entities, such as when multiple survey firms are contracted to cover different parts of the country. It could also be that a programme administrator wishes to commit the resources needed to conduct primary data collection. The assignment of the national statistics agency to collect this data is also common.
+
+- **Data provider (DP):** Data providers create relevant information as part of their regular operations, such as demographic data being produced by civil registration, or some types of asset ownership being evident due to land and vehicle registries. Most data providers are likely to be public sector bodies, but they may also include private and third sector entities. From the perspective of this text, data providers are generally assumed to be separate institutions from the data and programme administrators.
+
+- **IT services (IT):** IT services are conceived of here as a public agency that provides government entities with infrastructure and services as well as software support. The IT role envisaged for the social protection sector is to operate the social protection database's technical infrastructure, including data portals, as well as providing IT services to other actors in the sector, as required. IT services do not collect or share data directly, but provide the means for others to do so securely and efficiently. In some settings, IT services are housed within each institution, in others they provide services for the sub-bodies of a large central entity, and in yet others central IT services exist, but their tasks are the same regardless of their parent institution.
 
 ## RACI framework
 
-Each implementation mechanism is assigned roles using a RACI matrix:
+Each implementation mechanism (Level 3 of the Framework) is handled by a certain set of actors. The discussion of each pillar, therefore, includes a table that lists a key set of responsibilities for the various roles. We have applied a Responsibility Assignment Matrix (PMI, 2021) to describe the involvement of various roles vis-a-vis the implementation tasks or deliverables. Attractive due to its relative simplicity, the purpose of this matrix is to clarify responsibilities. The matrix has four parts, with one for each letter:
 
-- **R — Responsible:** the actor tasked with carrying out the work
-- **A — Accountable:** the actor with ultimate administrative or political responsibility
-- **C — Consulted:** actors whose input feeds into the process
-- **I — Informed:** actors who receive information about execution or completion
+- **R — Responsible:** generally refers to the actor tasked with carrying out a task or achieving its completion.
+- **A — Accountable:** signals the actor who carries the ultimate administrative or political responsibility for a task.
+- **C — Consulted:** refers to actors whose responses feed into the implementation process.
+- **I — Informed:** means the actor who receives information regarding the mechanism's execution or completion.
 
-RACI assignments for each mechanism are shown in the building block pages and summarised in [Table 1 of the original framework](../print/README.md).
+Taken together, this description provides an easily accessible summary of responsibilities by role.
+
+As with any other aspect of the Framework, it is worth noting that this approach can be adapted or changed as desired. Part 3 on implementation provides additional guidance in this regard.

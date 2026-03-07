@@ -1,28 +1,10 @@
-# Step 2: Define scope
+# Step 2. Define scope of the Framework: Policy and contextual fit
 
-**Focus: Policy and contextual fit**
+- **Establish shared objectives:** The formulation of objectives shared by the various stakeholders in data governance for social protection sets the frame for subsequent activities. In line with the objective of establishing a collaborative and supportive group of partner organisations, policy objectives for data governance should be arrived at through a joint discussion in a forum open to all stakeholders. Examples of policy objectives are the creation of consistent data across all sector programmes, the creation of a more accessible data ecosystem, the promotion of interoperability, stronger controls on third party service providers, and more uniform sectoral practices along the data lifecycle.
 
-The second step is to define which parts of the framework apply in your context — taking account of national policy, legal constraints, the structure of your social protection system, and available resources.
+- **Agree on general scope:** The general framework scope refers to the relevant areas of the data governance framework in terms of pillars, building blocks and mechanisms. It should reflect those parts of the general Framework outlined above that are necessary to implement the policy objectives identified in the previous step. Any that are missing need to be added, and those that are surplus to requirements can be eliminated. A Framework that is as small as possible, but as large as necessary, focuses resources and attention on the relevant aspects. For example, it may be the case that all building blocks of the ICT security policy and its implementation are handled by a specialised agency, in which case the security pillar could be dropped. In other settings, no household visits are conducted during registration and the corresponding building blocks can be dropped. An example of missing parts may arise from insufficient attention to any private sector provision that may be prevalent in a country, and which could require additional safeguards and coordination mechanisms.
 
-## What this step involves
-
-> _Placeholder: from framework text (p. 70) — reviewing national legal and policy frameworks, mapping the institutional landscape, scoping which pillars and building blocks are most relevant_
-
-## Key actions
-
-> _Placeholder: list of practical actions for this step_
-
-## Who needs to be involved
-
-> _Placeholder: policy advisers, legal experts, data administrators — see [Roles and responsibilities](../pillars/roles-and-responsibilities.md)_
-
-## Tools and resources
-
-> _Placeholder: relevant toolkit items for this step_
-
-## Common challenges
-
-> _Placeholder: e.g. fragmented legal framework; uncertainty about which institution is accountable; tension between openness and privacy obligations_
+- **Tailor the framework:** Having defined the general scope of the framework based on policy objectives, the third and final part of scoping is to determine what applies at the organisational level. For example, a data collection body, such as a national statistics agency that conducts 'survey sweep' registration drives, can implement real-time monitoring of data collection, whereas this mechanism would be of less relevance to an institution that provides social services.
 
 ---
 

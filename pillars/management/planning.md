@@ -1,10 +1,6 @@
 # Planning
 
-The Planning building block covers the strategic and procedural foundations for data management. A data management plan sets out how data will be collected, stored, processed, used, shared, and eventually archived or deleted — providing a reference document for all actors in the system.
-
-## What good looks like
-
-> _Placeholder: describe characteristics of a well-planned data management regime — clear written policies, defined ownership, documented processes, periodic review schedule_
+Ambitions and plans around leveraging data to advance social protection must be captured in a data management plan (Level 3: implementation mechanism). This plan outlines the goals, how they will be achieved, and the responsibilities (institutional, individual). Social protection is a multi-stakeholder domain – within and beyond government – so drafting this plan needs to involve all the stakeholders outlined in Part 2 at their respective levels of involvement. The data management plan offers information about key concepts (i.e. data lifecycle, security, sharing, etc.) and responsibilities. Ultimately, this plan needs to unlock the value of data in response to the various needs to deliver efficient and effective social protection programmes.
 
 ## Implementation mechanisms
 
@@ -16,17 +12,9 @@ The Planning building block covers the strategic and procedural foundations for 
 
 ### Data management plan
 
-> _Placeholder: what a data management plan is, what it should contain, and how to develop one in the social protection context — from framework text_
+A data management plan is a document of instructions on data handling throughout the data lifecycle, including considerations of risk management and mitigation, which loom large with social protection data. It can serve as an overall policy document for the Data Governance Framework if acquisition and access policies are integrated or referenced under the relevant lifecycle steps. The plan can tie the various pillars of data governance together into a coordinated whole and provide an operational document that uses and implements the Framework, as proposed on these pages. In doing so, the plan can ensure that day-to-day data management and governance practices align with policy objectives and compliance requirements. Canonical references for data management plans include the DAMA-DMBOK2 (DAMA, 2017) and the ISO/IEC reference model of data management (ISO & IEC, 2003).
 
 See the [Data management plan](../../toolkit/data-management-plan.md) toolkit page for a template and implementation guidance.
-
-## Minimum viable implementation
-
-> _Placeholder: what a low-capacity organisation should do as a first step — e.g. a simple written policy document with named owner_
-
-## Common pitfalls
-
-> _Placeholder: typical failures — e.g. plan exists on paper but is not followed, no named owner, not updated after system changes_
 
 ## Related building blocks
 
