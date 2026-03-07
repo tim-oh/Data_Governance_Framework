@@ -4,6 +4,8 @@ Data quality covers the procedures and processes that ensure data is accurate, c
 
 Poor data quality leads to errors in beneficiary selection, wrong benefit packages, and erosion of public trust. Good quality data enables better eligibility determination, operational efficiency, and compliance.
 
+![Figure 4. Dimensions of data quality](../../assets/fig4_quality_dimensions.png)
+
 ## Building blocks
 
 | Building block | What it covers |

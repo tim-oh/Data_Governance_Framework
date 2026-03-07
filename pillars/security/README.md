@@ -4,6 +4,8 @@ Data security covers the measures and protocols implemented to protect data from
 
 Security is structured around four types of measures: technical, organisational, physical, and people. Any technical process used to collect, process, store, use, or share data should employ robust security mechanisms.
 
+![Figure 6. Types of ICT security measures](../../assets/fig6_security_measures.png)
+
 ## Building blocks
 
 | Building block | What it covers |

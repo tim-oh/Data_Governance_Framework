@@ -6,6 +6,8 @@ Across four pillars, this Framework suggests many steps towards good data govern
 
 Although the Framework implies that data governance can be summarised, partitioned and assigned as proposed, many policy settings have a particular architecture that differs from that laid out in this Framework. Others will have already implemented some building blocks or find the particular mechanisms less than ideal for their policy environment. Instead of serving as a detailed guide, this Framework is a starting point for implementation planning. This part suggests a process that policy makers can use to adjust, adapt, and operationalise the pillars in a manner that is well-adjusted to their context. The suggested process is based on Section 3 of NIST's Cybersecurity Framework 2.0 (NIST, 2024).
 
+![Figure 7. Data Governance Framework implementation cycle](../assets/fig7_implementation_cycle.png)
+
 The implementation cycle is presented in a structured and sequenced manner to describe the stages clearly. The reality of policy reform and implementation is much more adaptive and continuous than this 'linear cycle'; a responsive approach that is adaptive to evolving policy needs and stakeholder requirements should be embraced to ensure sustainable and well-adjusted policy outcomes. It is also important to note that many of the implementation mechanisms proposed in this Framework are on-going rather than once-off activities. In short, the purpose of the implementation cycle is to build dynamic, live systems.
 
 The cycle consists of five steps:

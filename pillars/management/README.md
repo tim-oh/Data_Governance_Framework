@@ -4,6 +4,8 @@ Data management focuses on policies and procedures for efficiently and effective
 
 Sound data management supports reliable operations, brings operational efficiency and regulatory compliance, and helps prevent erratic policy implementation and the reputational risks that follow.
 
+![Figure 3. Data management pillar lifecycle](../../assets/fig3_lifecycle.png)
+
 ## Building blocks
 
 | Building block | What it covers |

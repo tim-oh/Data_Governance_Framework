@@ -2,6 +2,8 @@
 
 The architecture of social protection information systems varies widely, reflecting the diversity of programmes and institutions that make up the sector in different countries. Programme management information systems, social registries, and beneficiary registries are common data infrastructure designs, and it is not possible here to provide detailed recommendations for each type. Nevertheless, the core data exchange relationships are similar across national set-ups, and we can refer to key roles that are found in most.
 
+![Figure 2. Stylised overview of data governance roles](../assets/fig2_roles.png)
+
 - **Data governance council:** Data governance is a sector-wide endeavour that is best overseen by a body that takes the same perspective. As various institutions may contribute to sector data and interact with the relevant database, a governance council comprised of senior representatives from the main stakeholders would provide suitable oversight. The role of the council is to oversee the sector's operational performance, to propose, evaluate and sign off on policy, and to coordinate the activities of sector members.
 
 - **Data administrator:** Data for social protection operations may be stored in one or several programme management information systems (MISs), in a social registry, or a beneficiary registry. The assumption in this text is that this information is curated by a policy maker who assumes a policy design, coordination, and digital service execution role.

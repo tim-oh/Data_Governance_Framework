@@ -4,6 +4,8 @@ Data access focuses on policies and mechanisms that ensure authorised users can 
 
 Access management helps contain data breaches, fosters transparency, and empowers staff and institutions to leverage data effectively. Social protection databases hold highly sensitive personal data, making sound access governance a critical safeguard.
 
+![Figure 5. Types of data access](../../assets/fig5_access_types.png)
+
 ## Building blocks
 
 | Building block | What it covers |

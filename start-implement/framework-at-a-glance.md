@@ -14,6 +14,8 @@ This report proposes a Framework with five levels of detail:
 
 - **Level 5:** The final fifth level outlines key tasks involved in putting the implementation mechanisms into practice and assigns these to the various actors to provide a practical view of which actions need to be undertaken by which parties. These tasks are illustrative and need to be tailored to the specific implementation setting.
 
+![Figure 1. Structural levels of the Data Governance Framework](../assets/fig1_framework_levels.png)
+
 ## The four pillars
 
 The proposed Data Governance Framework is organised around what the Open Data Institute (ODI, 2023) refers to as the four foundational pillars of data governance. These pillars are complementary and interwoven, and critical to ensuring that data in the social protection sector is accessible, accurate, complete, and secure to enable robust and effective programme operations.
