@@ -4,6 +4,7 @@
 # individually in the GitBook UI to sync with its respective folder.
 #
 # GitBook Space → folder mapping:
+#   Landing page       →  (root)
 #   Start & Implement  →  start-implement/
 #   Pillars            →  pillars/
 #   Toolkit            →  toolkit/
@@ -12,3 +13,6 @@
 #
 # Each space folder contains README.md (landing page) and SUMMARY.md (TOC).
 # GitBook will read these automatically when Git Sync is configured.
+#
+# The root README.md serves as the top-level landing page, offering access
+# to the PDF, the print edition, and the online GitBook edition.

@@ -1,23 +1,31 @@
-# Part 3. Implementation guidance
+# Data Governance Framework
 
-Across four pillars, this Framework suggests many steps towards good data governance. The steps are formulated in general terms that make no reference to specific conditions, as they aim to cover the essential ground, wherever they may be applied. Accordingly, the Framework gains universality at the cost of specificity. Even if one is to accept fully that the pillars and building blocks are suitable for the realisation of policy objectives, it needs to be determined whether the implementation mechanisms are the best approach for a given setting, and how to break these down into particular operational actions. This part suggests a project management approach to Framework implementation.
+Welcome to the online edition of the **Data Governance Framework for Digital Social Protection Systems**.
 
-## Implementation cycle
+This interactive version is designed for modular navigation. You can read it end to end, or jump to the section most relevant to your work.
 
-Although the Framework implies that data governance can be summarised, partitioned and assigned as proposed, many policy settings have a particular architecture that differs from that laid out in this Framework. Others will have already implemented some building blocks or find the particular mechanisms less than ideal for their policy environment. Instead of serving as a detailed guide, this Framework is a starting point for implementation planning. This part suggests a process that policy makers can use to adjust, adapt, and operationalise the pillars in a manner that is well-adjusted to their context.
+## Where to start
 
-![Figure 7. Data Governance Framework implementation cycle](../assets/fig7_implementation_cycle.png)
+- **New to the Framework?** Read the [Introduction](../shared/introduction.md) for context and motivation, then see the [Framework at a glance](framework-at-a-glance.md) for a quick overview of the structure, pillars, and key roles.
 
-The implementation cycle is presented in a structured and sequenced manner to describe the stages clearly. The reality of policy reform and implementation is much more adaptive and continuous than this 'linear cycle'; a responsive approach that is adaptive to evolving policy needs and stakeholder requirements should be embraced to ensure sustainable and well-adjusted policy outcomes. It is also important to note that many of the implementation mechanisms proposed in this Framework are on-going rather than once-off activities. For example, data access rights need to be set in line with job requirements and require immediate adjustment as staff transition to new roles or leave the organisation. Similarly, staff training needs to be conducted at regular intervals, data sharing agreements and service level agreements need to be adapted as circumstances evolve, policies require review, and ICT security must be kept up-to-date continuously, and so on. In short, the purpose of the implementation cycle is to build dynamic, live systems. The rest of this part discusses the steps involved, and we invite policy makers to consider them as part of the journey towards continuous improvement in data governance.
+- **Looking for a specific topic?** Jump to any of the four pillars below, or browse the [Toolkit](../toolkit/) for detailed implementation mechanisms.
 
-## The five steps
+- **Ready to implement?** Go to [Implementation guidance](implementation-guidance.md) for a five-step process to adapt the Framework to your country context.
 
-| Step | Title | Focus |
-|------|-------|-------|
-| [1](step-1-convene-stakeholders.md) | Convene stakeholders | Governance and accountability |
-| [2](step-2-define-scope.md) | Define scope of the Framework | Policy and contextual fit |
-| [3](step-3-profile-organisations.md) | Profile organisations | Current status and gaps |
-| [4](step-4-plan-implementation.md) | Plan implementation | Prioritisation and project design |
-| [5](step-5-implement.md) | Implement the plan | Project management and iteration |
+## The four pillars
 
-See also [Framework at a glance](framework-at-a-glance.md) for a summary overview.
+| Pillar | Focus | Building blocks |
+|--------|-------|-----------------|
+| [**1. Management**](../pillars/management/) | Policies and procedures across the data lifecycle | Planning, Acquisition, Processing, Analysis, Use/sharing, Archiving |
+| [**2. Quality**](../pillars/quality/) | Ensuring data is accurate, complete, and reliable | Completeness, Accuracy, Currency, Consistency, Validity, Uniqueness |
+| [**3. Access**](../pillars/access/) | Authorised access while maintaining security and privacy | Internal, External, Open data, Cross-cutting |
+| [**4. Security**](../pillars/security/) | Protecting data from threats and unauthorised disclosure | Technical, Organisational, Physical, People |
+
+See also: [Roles and responsibilities](../pillars/roles-and-responsibilities.md) for a cross-cutting overview of who does what.
+
+## Further reading
+
+- [Framework summary table](../shared/framework-summary.md) — the full Framework at a glance, with all pillars, building blocks, mechanisms, and RACI assignments
+- [Country cases](../cases/) — how Uganda, the Philippines, Turkiye, and Chile are approaching data governance
+- [Concluding remarks](../shared/concluding-remarks.md)
+- [References](../shared/references.md)

@@ -1,52 +1,35 @@
-# Data Governance Framework for Digital Social Protection Systems
+# A Data Governance Framework for Digital Social Protection Systems
 
-This repository contains the source files for the **Data Governance Framework for Digital Social Protection Systems**, a DCI/USP2030 publication. The content is published as a GitBook site and maintained here via GitBook's Git Sync.
+A comprehensive, practical framework for governing data in digital social protection systems, developed as part of the Digital Convergence Initiative (DCI) under the USP2030 partnership.
 
-## About the framework
+The Framework is organised around four pillars — **Management**, **Quality**, **Access**, and **Security** — each broken into building blocks and implementation mechanisms, with roles, responsibilities, and step-by-step guidance for country-level adaptation.
 
-The framework provides practical guidance for governments, development partners, and practitioners on governing data in digital social protection systems. It is organised around four pillars — Management, Quality, Access, and Security — each broken into building blocks and implementation mechanisms.
+## Access the Framework
 
-## Repository structure
+Choose the format that best suits your needs:
 
-This is a monorepo. Each folder corresponds to a separate GitBook Space, synced individually via GitBook's Git Sync settings.
+### Online edition
 
-```
-start-implement/   "Start here" and 5-step implementation cycle
-pillars/           Four pillar reference spaces (building blocks, RACI, mechanisms)
-toolkit/           Implementation mechanisms library (templates, checklists, SOPs)
-cases/             Country case studies (Uganda, Philippines, Türkiye, Chile)
-print/             Print/PDF edition (linear narrative, assembled from core content)
+The interactive GitBook version, designed for navigation, cross-referencing, and modular use. Start with an overview or jump directly to a specific pillar, building block, or implementation mechanism.
 
-shared/            Reusable content blocks (citation, disclaimer, acronyms)
-assets/            Shared images and figures
-scripts/           Optional automation scripts
-```
+**[Enter the online edition](start-implement/)**
 
-## GitBook sync configuration
+### Print edition
 
-Each space is configured individually in the GitBook UI to sync with its folder:
+A linear, chapter-by-chapter version that mirrors the structure of the original PDF publication. Suitable for reading from start to finish or for offline reference.
 
-| GitBook Space        | Folder            |
-|----------------------|-------------------|
-| Start & Implement    | `start-implement/` |
-| Pillars (Reference)  | `pillars/`         |
-| Toolkit              | `toolkit/`         |
-| Country Cases        | `cases/`           |
-| Print Edition        | `print/`           |
+**[Enter the print edition](print/)**
 
-Each space folder contains a `README.md` (space landing page) and `SUMMARY.md` (table of contents).
+### PDF download
 
-## Publication details
+The original publication as a single PDF document, formatted for print.
 
+**[Download the PDF](assets/framework.pdf)**
+
+## About this publication
+
+- **Authors:** Tim Ohlenburg and others
+- **Initiative:** Digital Convergence Initiative (DCI) / USP2030
 - **Version:** v1.0 (draft)
-- **Status:** Not yet an official DCI publication
-- **Maintainer:** Tim Ohlenburg
-- **Feedback:** [open an issue](../../issues)
-
-## How to cite
-
-See [shared/how-to-cite.md](shared/how-to-cite.md).
-
-## Licence
-
-To be confirmed.
+- **How to cite:** See [citation guidance](shared/how-to-cite.md)
+- **Feedback:** [Open an issue](../../issues)
